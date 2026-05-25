@@ -1,15 +1,23 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/brand-mark-dark-bg.png">
-  <img alt="BRAINS" src="profile/brand-mark-light-bg.png" width="220">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shard-BRAINS/.github/main/profile/brand-mark-dark-bg.png">
+  <img alt="BRAINS" src="https://raw.githubusercontent.com/shard-BRAINS/.github/main/profile/brand-mark-light-bg.png" width="260">
 </picture>
 
 # BRAINS
 
-**The global benchmark for neuro-affirming AI.**
+### The global benchmark for neuro-affirming AI.
 
-[Apply to join the Incubator ↓](#apply-to-join-the-incubator) &nbsp;·&nbsp; [brainscertified.com](https://brainscertified.com)
+<br />
+
+[![Applications Open](https://img.shields.io/badge/Incubator-Applications%20Open-D99518?style=for-the-badge&labelColor=0A0A0A)](mailto:info@brainscertified.com?subject=Incubator%20application%20%E2%80%94%20%5Byour%20name%5D)
+[![Website](https://img.shields.io/badge/brainscertified.com-D99518?style=for-the-badge&logo=safari&logoColor=FFFFFF&labelColor=0A0A0A)](https://brainscertified.com)
+[![Contact](https://img.shields.io/badge/info@brainscertified.com-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D99518)](mailto:info@brainscertified.com)
+
+<br />
+
+[Apply to join the Incubator ↓](#apply-to-join-the-incubator)
 
 </div>
 
@@ -21,15 +29,51 @@ BRAINS exists because the people who built today's AI did not design for the peo
 
 We benchmark and certify AI systems against a methodology developed **with**, not just **for**, neurodivergent people. The work is intentionally rigorous and intentionally public — scoring rubrics, methodology notes, and findings are shared so they can be challenged, improved, and built on.
 
-> Reliable, affirming, inclusive.
+> **Reliable, affirming, inclusive.**
 
-## The three brands
+<div align="center">
+
+<br />
+
+### [X in Y]
+
+**[Replace with a real, citable BRAINS stat — e.g. "autistic adults report mainstream AI tools fail their everyday access needs"]**
+
+`[Source · n = X · year]`
+
+<br />
+
+</div>
+
+---
+
+## The umbrella
+
+```mermaid
+flowchart TD
+    P["<b>BRAINS</b><br/><span style='font-size:11px'>Certification · Methodology · Benchmark</span>"]:::parent
+    T["<b>BRAINS Trust</b><br/><span style='font-size:11px'>Research · Mental health · Safeguarding</span>"]:::trust
+    I["<b>BRAINS Incubator</b><br/><span style='font-size:11px'>Projects · Partnerships · Prototypes</span>"]:::incubator
+    R["<b>brains-resume</b><br/><span style='font-size:11px'>ND-aware résumé toolkit · live</span>"]:::live
+    M["<b>your project here</b><br/><span style='font-size:11px'>apply to join ↓</span>"]:::open
+    P --> T
+    P --> I
+    I --> R
+    I --> M
+    classDef parent fill:#D99518,stroke:#0A0A0A,stroke-width:2px,color:#0A0A0A
+    classDef trust fill:#2A8B91,stroke:#0A0A0A,stroke-width:2px,color:#FFFFFF
+    classDef incubator fill:#4DA8FF,stroke:#0A0A0A,stroke-width:2px,color:#0A0A0A
+    classDef live fill:#FFFFFF,stroke:#D99518,stroke-width:2px,color:#0A0A0A
+    classDef open fill:#F5F5F5,stroke:#7A7A7A,stroke-width:1px,stroke-dasharray:5 5,color:#1A1A1A
+```
 
 | | Focus |
 |---|---|
-| **BRAINS** | The parent. Certification, methodology, the public benchmark. |
-| **BRAINS Trust** | Research, mental health, safeguarding. |
-| **BRAINS Incubator** | New projects, partnerships, prototypes — including community-led builds. |
+| ![BRAINS](https://img.shields.io/badge/BRAINS-Parent-D99518?style=flat-square&labelColor=0A0A0A) | Certification, methodology, the public benchmark. |
+| ![Trust](https://img.shields.io/badge/BRAINS-Trust-2A8B91?style=flat-square&labelColor=0A0A0A) | Research, mental health, safeguarding. |
+| ![Incubator](https://img.shields.io/badge/BRAINS-Incubator-4DA8FF?style=flat-square&labelColor=0A0A0A) | New projects, partnerships, prototypes — including community-led builds. |
+
+---
 
 ## The BRAINS Incubator
 
@@ -39,13 +83,22 @@ We're looking for contributors — coders, designers, researchers, writers, live
 
 ### Live projects
 
-- **[brains-resume](https://github.com/shard-BRAINS/brains-resume)** — a neurodivergence-aware résumé toolkit covering ATS-safety checks, ND-bias auditing, disclosure-decision coaching, and career-change translation.
+| Project | Status | What it is |
+|---|---|---|
+| **[brains-resume](https://github.com/shard-BRAINS/brains-resume)** | ![Status](https://img.shields.io/badge/-live-D99518?style=flat-square&labelColor=0A0A0A) | Neurodivergence-aware résumé toolkit: ATS-safety, ND-bias auditing, disclosure-decision coaching, career-change translation. |
+| _your project_ | ![Status](https://img.shields.io/badge/-open-7A7A7A?style=flat-square&labelColor=0A0A0A) | Have an idea? Apply below with a one-paragraph pitch. |
 
 More in the pipeline. Some of them might be yours.
 
 ---
 
 ## Apply to join the Incubator
+
+<div align="center">
+
+[![Apply](https://img.shields.io/badge/Send%20Application-info%40brainscertified.com-D99518?style=for-the-badge&logo=gmail&logoColor=0A0A0A&labelColor=0A0A0A)](mailto:info@brainscertified.com?subject=Incubator%20application%20%E2%80%94%20%5Byour%20name%5D)
+
+</div>
 
 If you'd like to work on an existing Incubator project, or propose a new one, send an email to **[info@brainscertified.com](mailto:info@brainscertified.com?subject=Incubator%20application%20%E2%80%94%20%5Byour%20name%5D)** with the following:
 
@@ -79,17 +132,21 @@ We respond to every application within seven (7) working days. There is no diagn
 
 ## How we work
 
-- **Async-first.** Written communication is the default. Real-time meetings are short and have agendas.
-- **Adjustments by default.** Reasonable adjustments are offered without diagnosis or justification.
-- **Identity-first language**, with willingness to flex to person-first when individuals request it.
-- **Findings before opinions.** Where we make claims about AI behaviour, we cite the test and the data.
-- **Inclusion by construction.** The neurodivergent contributor is the assumed contributor, not the edge case.
+| | |
+|---|---|
+| ![Async](https://img.shields.io/badge/-async%20first-D99518?style=for-the-badge&labelColor=0A0A0A) | Written communication is the default. Real-time meetings are short and have agendas. |
+| ![Adjustments](https://img.shields.io/badge/-adjustments%20by%20default-D99518?style=for-the-badge&labelColor=0A0A0A) | Reasonable adjustments are offered without diagnosis or justification. |
+| ![Identity-first](https://img.shields.io/badge/-identity%20first-D99518?style=for-the-badge&labelColor=0A0A0A) | "Autistic person" by default; flex to person-first when individuals request it. |
+| ![Evidence-led](https://img.shields.io/badge/-findings%20before%20opinions-D99518?style=for-the-badge&labelColor=0A0A0A) | Claims about AI behaviour cite the test and the data. |
+| ![Inclusion](https://img.shields.io/badge/-inclusion%20by%20construction-D99518?style=for-the-badge&labelColor=0A0A0A) | The neurodivergent contributor is the assumed contributor, not the edge case. |
 
 For the long version, see the [BRAINS Code of Conduct](CODE_OF_CONDUCT.md).
 
+---
+
 ## Contact
 
-- **Apply / propose a project:** [info@brainscertified.com](mailto:info@brainscertified.com)
+- **Apply / propose a project:** [info@brainscertified.com](mailto:info@brainscertified.com?subject=Incubator%20application%20%E2%80%94%20%5Byour%20name%5D)
 - **Web:** [brainscertified.com](https://brainscertified.com)
 - **Press:** [info@brainscertified.com](mailto:info@brainscertified.com?subject=Press%20enquiry%20%E2%80%94%20%5Boutlet%5D)
 
@@ -97,6 +154,12 @@ For the long version, see the [BRAINS Code of Conduct](CODE_OF_CONDUCT.md).
 
 <div align="center">
 
+<br />
+
 **Built by neurodivergent minds, for neurodivergent people.**
+
+<br />
+
+[![Made by](https://img.shields.io/badge/built%20by-neurodivergent%20minds-0A0A0A?style=for-the-badge&labelColor=D99518)](https://brainscertified.com)
 
 </div>
