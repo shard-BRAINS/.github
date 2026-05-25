@@ -31,20 +31,6 @@ We benchmark and certify AI systems against a methodology developed **with**, no
 
 > **Reliable, affirming, inclusive.**
 
-<div align="center">
-
-<br />
-
-### [X in Y]
-
-**[Replace with a real, citable BRAINS stat — e.g. "autistic adults report mainstream AI tools fail their everyday access needs"]**
-
-`[Source · n = X · year]`
-
-<br />
-
-</div>
-
 ---
 
 ## The umbrella
