@@ -12,6 +12,7 @@
 <br />
 
 [![Applications Open](https://img.shields.io/badge/Incubator-Applications%20Open-D99518?style=for-the-badge&labelColor=0A0A0A)](mailto:info@brainscertified.com?subject=Incubator%20application%20%E2%80%94%20%5Byour%20name%5D)
+[![Discord](https://img.shields.io/badge/Discord-Join%20the%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=0A0A0A)](https://discord.gg/BEmTXXscBr)
 [![Website](https://img.shields.io/badge/brainscertified.com-D99518?style=for-the-badge&logo=safari&logoColor=FFFFFF&labelColor=0A0A0A)](https://brainscertified.com)
 [![Contact](https://img.shields.io/badge/info@brainscertified.com-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D99518)](mailto:info@brainscertified.com)
 
@@ -136,6 +137,7 @@ For the long version, see the [BRAINS Code of Conduct](CODE_OF_CONDUCT.md).
 ## Contact
 
 - **Apply / propose a project:** [info@brainscertified.com](mailto:info@brainscertified.com?subject=Incubator%20application%20%E2%80%94%20%5Byour%20name%5D)
+- **Community:** [Discord — discord.gg/BEmTXXscBr](https://discord.gg/BEmTXXscBr)
 - **Web:** [brainscertified.com](https://brainscertified.com)
 - **Press:** [info@brainscertified.com](mailto:info@brainscertified.com?subject=Press%20enquiry%20%E2%80%94%20%5Boutlet%5D)
 
