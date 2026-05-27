@@ -42,7 +42,7 @@ flowchart TD
     T["<b>BRAINS Trust</b><br/><span style='font-size:11px'>Research · Mental health · Safeguarding</span>"]:::trust
     I["<b>BRAINS Incubator</b><br/><span style='font-size:11px'>Projects · Partnerships · Prototypes</span>"]:::incubator
     R["<b>brains-resume</b><br/><span style='font-size:11px'>ND-aware résumé toolkit · live</span>"]:::live
-    B["<b>brains-build-platform</b><br/><span style='font-size:11px'>ND-affirming PMO platform · live</span>"]:::live
+    B["<b>BRAINS-build-platform</b><br/><span style='font-size:11px'>ND-affirming PMO platform · live</span>"]:::live
     M["<b>your project here</b><br/><span style='font-size:11px'>apply to join ↓</span>"]:::open
     P --> T
     P --> I
@@ -75,7 +75,7 @@ We're looking for contributors — coders, designers, researchers, writers, live
 | Project | Status | What it is |
 |---|---|---|
 | **[brains-resume](https://github.com/shard-BRAINS/BRAINS-resume-skill)** | ![Status](https://img.shields.io/badge/-live-D99518?style=flat-square&labelColor=0A0A0A) | Neurodivergence-aware résumé toolkit: ATS-safety, ND-bias auditing, disclosure-decision coaching, career-change translation. |
-| **[brains-build-platform](https://github.com/shard-BRAINS/brains-build-platform)** | ![Status](https://img.shields.io/badge/-live-D99518?style=flat-square&labelColor=0A0A0A) | Neurodivergence-affirming PMO platform: work-package decomposition, subagent-driven execution, scrum cadence, decision logging. |
+| **[BRAINS-build-platform](https://github.com/shard-BRAINS/BRAINS-build-platform)** | ![Status](https://img.shields.io/badge/-live-D99518?style=flat-square&labelColor=0A0A0A) | Neurodivergence-affirming PMO platform: work-package decomposition, subagent-driven execution, scrum cadence, decision logging. |
 | _your project_ | ![Status](https://img.shields.io/badge/-open-7A7A7A?style=flat-square&labelColor=0A0A0A) | Have an idea? Apply below with a one-paragraph pitch. |
 
 More in the pipeline. Some of them might be yours.
