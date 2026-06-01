@@ -42,10 +42,10 @@ flowchart TD
     P["<b>BRAINS</b><br/><span style='font-size:11px'>Certification · Methodology · Benchmark</span>"]:::parent
     T["<b>BRAINS Trust</b><br/><span style='font-size:11px'>Research · Mental health · Safeguarding</span>"]:::trust
     I["<b>BRAINS Incubator</b><br/><span style='font-size:11px'>Projects · Partnerships · Prototypes</span>"]:::incubator
-    R["<b>brains-resume</b><br/><span style='font-size:11px'>ND-aware résumé toolkit · v1.5 shipped</span>"]:::live
-    RS["<b>brains-research</b><br/><span style='font-size:11px'>research library skill · v1.1 stable</span>"]:::live
+    R["<b>BRAINS-resume-skill</b><br/><span style='font-size:11px'>ND-aware résumé toolkit · v1.5 shipped</span>"]:::live
+    RS["<b>BRAINS-research-skill</b><br/><span style='font-size:11px'>research library skill · v1.1 stable</span>"]:::live
     B["<b>BRAINS-build-platform</b><br/><span style='font-size:11px'>ND-affirming PMO platform · v0.1 MVP</span>"]:::live
-    CM["<b>claude-usage-monitor</b><br/><span style='font-size:11px'>VSCode token meter · on Marketplace</span>"]:::live
+    CM["<b>BRAINS-claude-usage-monitor</b><br/><span style='font-size:11px'>VSCode token meter · on Marketplace</span>"]:::live
     M["<b>your project here</b><br/><span style='font-size:11px'>apply to join ↓</span>"]:::open
     P --> T
     P --> I
@@ -79,10 +79,10 @@ We're looking for contributors — coders, designers, researchers, writers, live
 
 | Project | Status | What it is |
 |---|---|---|
-| **[brains-resume](https://github.com/shard-BRAINS/BRAINS-resume-skill)** | ![v1.5](https://img.shields.io/badge/-v1.5%20shipped-D99518?style=flat-square&labelColor=0A0A0A) | Neurodivergence-aware résumé toolkit: ATS-safety, ND-bias auditing, disclosure-decision coaching, career-change translation. |
-| **[brains-research](https://github.com/shard-BRAINS/BRAINS-research-skill)** | ![v1.1](https://img.shields.io/badge/-v1.1%20stable-D99518?style=flat-square&labelColor=0A0A0A) | Claude Code skill that maintains the BRAINS research library — extract, dedupe, categorise, file PDFs into a locked taxonomy, plus a per-paper review workflow. |
+| **[BRAINS-resume-skill](https://github.com/shard-BRAINS/BRAINS-resume-skill)** | ![v1.5](https://img.shields.io/badge/-v1.5%20shipped-D99518?style=flat-square&labelColor=0A0A0A) | Neurodivergence-aware résumé toolkit: ATS-safety, ND-bias auditing, disclosure-decision coaching, career-change translation. |
+| **[BRAINS-research-skill](https://github.com/shard-BRAINS/BRAINS-research-skill)** | ![v1.1](https://img.shields.io/badge/-v1.1%20stable-D99518?style=flat-square&labelColor=0A0A0A) | Claude Code skill that maintains the BRAINS research library — extract, dedupe, categorise, file PDFs into a locked taxonomy, plus a per-paper review workflow. |
 | **[BRAINS-build-platform](https://github.com/shard-BRAINS/BRAINS-build-platform)** | ![v0.1](https://img.shields.io/badge/-v0.1%20MVP-D99518?style=flat-square&labelColor=0A0A0A) | Neurodivergence-affirming PMO platform: work-package decomposition, subagent-driven execution, scrum cadence, decision logging. |
-| **[claude-usage-monitor](https://github.com/shard-BRAINS/BRAINS-claude-usage-monitor)** | ![Marketplace](https://img.shields.io/badge/-on%20Marketplace-D99518?style=flat-square&labelColor=0A0A0A) | VSCode extension that reads Claude Code transcripts locally and shows your rolling 5-hour and 7-day token usage. No network, no telemetry. |
+| **[BRAINS-claude-usage-monitor](https://github.com/shard-BRAINS/BRAINS-claude-usage-monitor)** | ![Marketplace](https://img.shields.io/badge/-on%20Marketplace-D99518?style=flat-square&labelColor=0A0A0A) | VSCode extension that reads Claude Code transcripts locally and shows your rolling 5-hour and 7-day token usage. No network, no telemetry. |
 | _your project_ | ![Status](https://img.shields.io/badge/-open-7A7A7A?style=flat-square&labelColor=0A0A0A) | Have an idea? Apply below with a one-paragraph pitch. |
 
 More in the pipeline. Some of them might be yours.
